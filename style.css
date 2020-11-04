@@ -73,23 +73,27 @@ ul {
 .fa-github-square:before {
     content: "\f092";
     font-size: 40px;
+    color: black;
 }
 
 .fa-github-square:hover {
     content: "\f092";
     font-size: 60px;
     opacity: 50%;
+    color: black;
 }
 
 .fa-twitter-square:before {
     content: "\f092";
     font-size: 40px;
+    color: black;
 }
 
 .fa-twitter-square:hover {
     content: "\f092";
     font-size: 60px;
     opacity: 50%;
+    color: black;
 }
 
 @media (max-width: 960px) {
