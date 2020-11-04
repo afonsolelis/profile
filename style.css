@@ -2,7 +2,7 @@ div {
     display: block;
 }
 body {
-    background: black;
+    background: black url("images/wallpaper.jpg") no-repeat right top fixed;
     color: #575F7D;
     font-family: 'Lora', serif;
     font-size: 17px;
@@ -60,7 +60,7 @@ ul {
     background-color: white;
     padding: 40px;
     box-shadow: 0px 10px 30px rgba(255,255,255,0.1);
-    border-radius: 30px;
+    border-radius: 100px;
     margin: 20px 0px;
     text-align: center;
 }
@@ -77,7 +77,7 @@ ul {
 
 .fa-github-square:hover {
     content: "\f092";
-    font-size: 40px;
+    font-size: 60px;
     opacity: 50%;
 }
 
@@ -88,7 +88,7 @@ ul {
 
 .fa-twitter-square:hover {
     content: "\f092";
-    font-size: 40px;
+    font-size: 60px;
     opacity: 50%;
 }
 
